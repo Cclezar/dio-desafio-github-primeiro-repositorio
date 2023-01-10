@@ -24,7 +24,9 @@ Servidor = repositório remoto
 - TAB - completar 
 
 
-- Git init - criar um repositório no git dentro daquela pasta
-- Git status- diz o status daquele arquivo/pasta 
-- Git add * ou Git add nome do aqrquivo - movimenta de untread para staged
-- Git commit -m "mensagem" - comitado
+- git init - criar um repositório no git dentro daquela pasta
+- git status- diz o status daquele arquivo/pasta 
+- git add * ou Git add nome do aqrquivo - movimenta de untread para staged
+- git commit -m "mensagem" - comitado
+- git push origin main ou master - empurrar para o GitHub
+- git pull origin - puxar do GitHub para a máquina
